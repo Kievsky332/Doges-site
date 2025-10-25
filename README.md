@@ -13,9 +13,9 @@
 - Работоспособность сайта.
 
 ## Позимствовано
-https://ria.ru/20201210/akita-inu-1588661127.html
+https://ria.ru/20201210/akita-inu-1588661127.html <br>
 https://www.ixbt.com/live/offtopic/kak-vybrat-sobaku-pod-svoy-harakter-i-stil-zhizni.html
-Спасибо за изображения.
+<br>Спасибо за изображения.
 ## Автор
 
-(C) 2025 kievsky332
+© 2025 kievsky332
