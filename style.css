@@ -8,6 +8,15 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
 }
+.biba{
+  position: absolute;
+  bottom: 10px; 
+  left: 0; 
+  width: 100%; 
+  text-align: center; 
+  color: rgb(0, 0, 0);
+  font-size: 60px;
+}
 
 header {
     width: 99vw;
@@ -72,3 +81,16 @@ nav {
   font-size: 1.3rem;
 }
 
+
+@media (max-width: 480px) {
+  .biba{
+    font-size: 20px;
+    transform: translateY(-100px)
+  }
+  .circle {
+    width: 50px; /* Ширина элемента */
+    height: 50px; /* Высота элемента */
+    background-color: rgb(0, 0, 0); /* Цвет круга */
+    border-radius: 50%; /* Скругление углов до 50% */
+  }
+}
